@@ -29,7 +29,7 @@ module GettextI18nRailsJs
     MINOR = 2
     PATCH = 0
 
-    PRE = nil
+    PRE = :skroutz
 
     class << self
       def to_s
